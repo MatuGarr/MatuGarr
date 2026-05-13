@@ -24,6 +24,6 @@
 ## 🤝 Connect with me
 
 
-<a href="https://www.linkedin.com/in/matwugarcia/">
+<a href="www.linkedin.com/in/matugarr">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
